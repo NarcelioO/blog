@@ -1,0 +1,178 @@
+.body{
+    background-color:#1e1d1c ;
+    width: 100%;
+    height: 1000px;
+}
+.header{
+    background-color:#121315;
+    height: 50px;
+    width:100% ;
+    color: #dedcd8;
+    font-size: 20px;
+    font-family: constantia, Arial, Helvetica, sans-serif;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+top: 0;
+
+}
+.item{
+   margin:auto;
+}
+.container{
+    width: 100%;
+    height: 300px;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+background-image:url("details.jpg");
+opacity: 0.9;
+
+}
+.tittle{
+    
+    width: 60%;
+    height: 250px;
+    border: solid #121315 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5em;
+    font-family:constantia;
+    
+}
+.letras{
+    
+    background-color: #121315;
+    color: #dedcd8;
+    border-bottom: solid #dedcd8 3px;
+}
+
+.sumario{
+    height: 50px;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-bottom: #121315 solid 5px;
+    border-top: #121315 solid 5px;
+    
+}
+.sum2{
+    width: 80%;
+    height: 50px;
+    background-color:#121315;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    color: #dedcd8;
+    font-family:constantia;
+    
+}
+.post{
+    width: 100%;
+    height:50px;
+    background-color:#121315;
+    margin-top:auto;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+margin-top: 1%;
+border-radius: 10px;;
+}
+.titulo{
+    font-size:1.5em;
+    color: #dedcd8;
+    font-family:constantia;
+    border-bottom: solid #dedcd8 1px;
+    border-top: solid #dedcd8 1px;
+}
+.link {
+    text-decoration: none;
+}
+.linkpage{
+    text-decoration: none;
+    color: #121315;
+    
+}
+.headpost{
+    background-color: #8d8776;
+    
+}
+
+.castigo{
+    background-color: #121315;
+   width:100%;
+    
+}
+
+.tittletxt{
+    background-color:#8d8776;
+    height: 50px;
+    width: 100%;
+    color:black;
+    font-family: Franklin Gothic;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+font-size: 25px;
+
+}
+.page{
+    
+    color: white;
+    width: auto;
+    height: 15em;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+border-bottom: solid #8d8776 1px ;
+
+
+
+
+}
+.nome{
+
+    font-family: 'Times New Roman', Times, serif;
+   color: #f0e6d2;
+    
+    font-size: 40px;
+    
+       
+}
+.mono{
+    
+    font-family: Century,'Times New Roman', Times, serif;
+    
+    width: 45%;
+    margin-top:2em;
+    color: #f0e6d2;
+    text-align: center;
+    letter-spacing:1px;
+    line-height:24px;
+    font-size: 1.3em;
+   
+    
+
+}
+.footer{
+    background-color:#121315 ;
+    width: 100%;
+    height: 100px;
+    font-family: Century,'Times New Roman', Times, serif;
+    color: #dedcd8;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
